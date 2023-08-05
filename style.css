@@ -1,0 +1,79 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  margin:auto;
+  padding:auto;
+  background-color:dodgerblue;
+}
+
+.my_menubar{
+  position: absolute;
+  height:auto;
+  width:100%;
+  background-color:crimson;
+}
+
+h1{
+  font-size:60px;
+  font-weight:1000;
+  background-image: url(https://i.ibb.co/ZfYX6Kh/letters-g66c0c82dd-1920.jpg);
+  background-size:cover;
+  background-position:center;
+  background-clip:text;
+  -webkit-background-clip:text;
+  color:transparent;
+}
+
+ul{
+  margin:0px;
+  padding:0px;
+}
+
+.menubar{
+  height:50px;
+  width:100%;
+  background-color:crimson;
+}
+
+.menubar li{
+  list-style:none;
+  text-align:center;
+  float:left;
+  width:160px;;
+  height:50px;
+  margin-left:5px;
+  line-height:50px;
+  background-color:crimson;
+}
+
+.menubar li:hover{
+  background-color:aqua;
+}
+
+.menubar li a{
+  text-decoration:none;
+  color:white;
+  display:block;
+}
+
+.menubar li a:hover{
+  color:black;
+}
+
+.logo{
+  width:175px;
+  background-color:crimson !important; 
+}
+
+.logo_li{
+  background-color:crimson !important;
+}
+
+.scrleffect{
+   width:5px;
+  height:5px;
+  margin:5px;
+ } 
