@@ -6,7 +6,7 @@ html {
 body{
   margin:auto;
   padding:auto;
-  background-color:dodgerblue;
+  background-color:aqua;
 }
 
 .my_menubar{
@@ -111,6 +111,7 @@ ul{
   min-width:60px;
   height:60px;
   background:blue;
+  color:#F0FFFF;
   justify-content:center;
   align-items:center;
   display:flex;
